@@ -84,24 +84,24 @@
             <table class="tab-2">
                 <caption>2.2 Создание таблицы</caption>
                 <tr>
-                    <td colspan="8" style="background-color: aquamarine"></td>
+                    <td height='20' width='160'colspan="8" style="background-color: aquamarine"></td>
                 </tr>
                 <tr>
-                    <td rowspan="6" style="background-color:bisque"></td>
-                    <td colspan="8" style="background-color: aquamarine"></td>
-                    <td rowspan="6" style="background-color:bisque"></td>
+                    <td height='120' width='20'rowspan="6" style="background-color:bisque"></td>
+                    <td  height='20' width='120'colspan="6" style="background-color: aquamarine"></td>
+                    <td height='120' width='20'rowspan="6" style="background-color:bisque"></td>
                 </tr>
                 <tr>
-                    <td rowspan="8" style="background-color:bisque"></td>
-                    <td colspan="8" style="background-color: aquamarine"></td>
-                    <td rowspan="8" style="background-color:bisque"></td>
+                    <td rowspan="4" style="background-color:bisque"></td>
+                    <td colspan="4" style="background-color: aquamarine"></td>
+                    <td rowspan="4" style="background-color:bisque"></td>
 
                 </tr>
                 <tr>
-                    <td rowspan="8" style="background-color:bisque"></td>
+                    <td rowspan="2" style="background-color:bisque"></td>
                     <td style="background-color:red"></td>
                     <td style="background-color:blue"></td>
-                    <td rowspan="8" style="background-color:bisque"></td>
+                    <td rowspan="2" style="background-color:bisque"></td>
 
                 </tr>
                 <tr>
@@ -115,7 +115,7 @@
                     <td colspan="6" style="background-color: aquamarine"></td>
                 </tr>
                 <tr>
-                    <td colspan="8" style="background-color: aquamarine"></td>
+                    <td height='20' width='160' colspan="8" style="background-color: aquamarine"></td>
                 </tr>
             </table>
         </div>
