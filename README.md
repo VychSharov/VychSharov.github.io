@@ -84,38 +84,38 @@
             <table class="tab-2">
                 <caption>2.2 Создание таблицы</caption>
                 <tr>
-                    <td height='20px' width='160px' style="background-color: aquamarine"></td>
+                    <td colspan="8" style="background-color: aquamarine"></td>
                 </tr>
                 <tr>
-                    <td height='120px' width='20px' style="background-color:bisque"></td>
-                    <td  height='20px' width='120px' style="background-color: aquamarine"></td>
-                    <td height='120px' width='20px' style="background-color:bisque"></td>
+                    <td rowspan="6" style="background-color:bisque"></td>
+                    <td colspan="6" style="background-color: aquamarine"></td>
+                    <td rowspan="6" style="background-color:bisque"></td>
                 </tr>
                 <tr>
-                    <td height='80px' width='20px'  style="background-color:bisque"></td>
-                    <td height='20px' width='80px' style="background-color: aquamarine"></td>
-                    <td height='80px' width='20px' style="background-color:bisque"></td>
+                    <td rowspan="4" style="background-color:bisque"></td>
+                    <td colspan="4" style="background-color: aquamarine"></td>
+                    <td rowspan="4" style="background-color:bisque"></td>
 
                 </tr>
                 <tr>
-                    <td height='40px' width='20px'  style="background-color:bisque"></td>
-                    <td height='20px' width='20px' style="background-color:red"></td>
-                    <td height='20px' width='20px' style="background-color:blue"></td>
-                    <td height='40px' width='20px' style="background-color:bisque"></td>
+                    <td rowspan="2" style="background-color:bisque"></td>
+                    <td style="background-color:red"></td>
+                    <td style="background-color:blue"></td>
+                    <td rowspan="2" style="background-color:bisque"></td>
 
                 </tr>
                 <tr>
-                    <td height='20px' width='20px' style="background-color:greenyellow"></td>
-                    <td height='20px' width='20px' style="background-color:yellow"></td>
+                    <td style="background-color:greenyellow"></td>
+                    <td style="background-color:yellow"></td>
                 </tr>
                 <tr>
-                    <td height='20px' width='80px' style="background-color: aquamarine"></td>
+                    <td colspan="4" style="background-color: aquamarine"></td>
                 </tr>
                 <tr>
-                    <td height='20px' width='120px' style="background-color: aquamarine"></td>
+                    <td colspan="6" style="background-color: aquamarine"></td>
                 </tr>
                 <tr>
-                    <td height='20px' width='160px'  style="background-color: aquamarine"></td>
+                    <td colspan="8" style="background-color: aquamarine"></td>
                 </tr>
             </table>
         </div>
