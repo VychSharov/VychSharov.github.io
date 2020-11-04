@@ -87,9 +87,9 @@
                     <td colspan="8" style="background-color: aquamarine"></td>
                 </tr>
                 <tr>
-                    <td rowspan="6" style="background-color:bisque"></td>
-                    <td colspan="6" style="background-color: aquamarine"></td>
-                    <td rowspan="6" style="background-color:bisque"></td>
+                    <td rowspan="8" style="background-color:bisque"></td>
+                    <td colspan="8" style="background-color: aquamarine"></td>
+                    <td rowspan="8" style="background-color:bisque"></td>
                 </tr>
                 <tr>
                     <td rowspan="4" style="background-color:bisque"></td>
