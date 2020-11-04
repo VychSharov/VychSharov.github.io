@@ -92,16 +92,16 @@
                     <td rowspan="8" style="background-color:bisque"></td>
                 </tr>
                 <tr>
-                    <td rowspan="4" style="background-color:bisque"></td>
-                    <td colspan="4" style="background-color: aquamarine"></td>
-                    <td rowspan="4" style="background-color:bisque"></td>
+                    <td rowspan="8" style="background-color:bisque"></td>
+                    <td colspan="8" style="background-color: aquamarine"></td>
+                    <td rowspan="8" style="background-color:bisque"></td>
 
                 </tr>
                 <tr>
-                    <td rowspan="2" style="background-color:bisque"></td>
+                    <td rowspan="8" style="background-color:bisque"></td>
                     <td style="background-color:red"></td>
                     <td style="background-color:blue"></td>
-                    <td rowspan="2" style="background-color:bisque"></td>
+                    <td rowspan="8" style="background-color:bisque"></td>
 
                 </tr>
                 <tr>
